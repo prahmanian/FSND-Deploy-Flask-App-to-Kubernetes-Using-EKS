@@ -3,8 +3,9 @@
 .flaskenv
 *.pyc
 *.pyo
-env/
-env*
+# env/
+# env*
+# removed env* to allow environment variable
 dist/
 build/
 *.egg
